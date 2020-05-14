@@ -1,0 +1,3 @@
+Git Hub ID: zjk41	
+Computer: Windows
+Python: Anaconda
